@@ -1,0 +1,12 @@
+_drafts
+_drafts/*
+.DS_Store
+*.swp
+*.bak
+*~
+*.py
+*.pyc
+*.rb
+*.sh
+*.exe
+*.vbs

@@ -1,0 +1,13 @@
+name: "orbitalflower"
+description: "68ee 2af6 e032 50f5 dc1d 23fb aba6 4373 86ea a004"
+url: "https://orbitalflower.github.io"
+baseurl: "https://orbitalflower.github.io"
+
+relative_permalinks: false
+permalink: ":year:month:day-:title.html"
+
+markdown: kramdown
+kramdown:
+  hard_wrap: false
+  entity_output: "symbolic"
+  line_width: 68
