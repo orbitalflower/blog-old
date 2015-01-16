@@ -110,6 +110,10 @@ nav h1 {
   margin: 0 auto;
 }
 
+nav h1 span {
+  color: #fffff5;
+}
+
 nav ul, nav ol {
   max-width: 720px;
   margin: 0 auto;
@@ -181,7 +185,8 @@ p.lead {
 
 #markdown-toc {
   border: 1px #ccc solid;
-  padding: 1em;
+  padding-top: 1em;
+  padding-bottom: 1em;
   border-radius: 0.5em;
 }
 
@@ -258,9 +263,11 @@ table td {
 }
 
 hr {
-  
 }
 
+code {
+  background-color: #ccc;
+}
 
 /* Experimental blockquote */
 /*

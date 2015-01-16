@@ -3,8 +3,12 @@ layout: default
 title: orbitalflower
 ---
 
-<ol>
-  {% for post in site.posts %}
-  <li><a href="{{ site.baseurl }}{{ post.url}}">{{ post.title }}</a> ({{ post.date | date: "%d %B %Y" }})</li>
-  {% endfor %}
-</ol>
+        <header>
+          <h1>Index</h1>
+        </header>
+
+        <ol>
+        {% for post in site.posts %}
+          <li><a href="{{ site.baseurl }}{{ post.url}}">{{ post.title }}</a> ({{ post.date | date: "%d %B %Y" }})</li>
+        {% endfor %}
+        </ol>
