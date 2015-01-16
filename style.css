@@ -181,7 +181,8 @@ p.lead {
 
 #markdown-toc {
   border: 1px #ccc solid;
-  border-radius: 1em;
+  padding: 1em;
+  border-radius: 0.5em;
 }
 
 aside {
