@@ -175,6 +175,15 @@ dt {
   font-weight: bold;
 }
 
+p.lead {
+  font-size: 125%;
+}
+
+#markdown-toc {
+  border: 1px #ccc solid;
+  border-radius: 1em;
+}
+
 aside {
   font-size: 125%;
   text-align: center;
@@ -225,8 +234,9 @@ table tr {
   border-bottom: 1px solid #ccc;
 }
 
-table tr:first-child{
+table thead tr{
   background-color: #eee;
+  border-bottom: 2px solid #ccc;
 }
 
 table tr:nth-child(2n+1) {
@@ -244,6 +254,10 @@ table td {
   text-align: left;
   vertical-align: top;
   padding: 0.5em 1em;
+}
+
+hr {
+  
 }
 
 

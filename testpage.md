@@ -1,5 +1,5 @@
 ---
-Title: "Test Page"
+title: "Test Page"
 layout: page
 ---
 
@@ -42,6 +42,7 @@ and [external links](https://github.com).
 
 Markdown parser
 : kramdown
+
 Layout
 : Jekyll
 
