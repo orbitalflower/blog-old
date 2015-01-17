@@ -183,14 +183,6 @@ p.lead {
   font-size: 125%;
 }
 
-#markdown-toc {
-  border: 1px #ccc solid;
-  border-top: 0.75em #337 solid;
-  border-radius: 0.4em;
-  padding: 1em 2em 1em 3em;
-  display: inline-block;
-}
-
 aside {
   font-size: 125%;
   text-align: center;
@@ -231,6 +223,16 @@ article a[href^="https://"]{
 
 article a:visited {
   color: #909;
+}
+
+#markdown-toc {
+  border: 1px #ccc solid;
+  border-top: 0.75em #337 solid;
+  border-radius: 0.4em;
+  padding: 1em 2em 1em 3em;
+  display: inline-block;
+  box-sizing: border-box;
+  border-color: #337;
 }
 
 table {

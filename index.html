@@ -9,6 +9,6 @@ title: orbitalflower
 
         <ol>
         {% for post in site.posts %}
-          <li><a href="{{ site.baseurl }}{{ post.url}}">{{ post.title }}</a> ({{ post.date | date: "%d %B %Y" }})</li>
+          <li><a href="{{ site.baseurl }}{{ post.url}}">{{ post.title }}</a> ({{ post.date | date: "%Y-%b-%d" }})</li>
         {% endfor %}
         </ol>
