@@ -6,7 +6,7 @@ Created in 2005, OpenID was hailed as the future of web login. Now,
 ten years later, almost no sites accept the OpenID login protocol
 and Google plans to shut down its OpenID 2.0 service later this year.
 So what went wrong?
-{ .lead}
+{: .lead}
 
 In December 2010, online news network
 [Gawker Media was hacked](http://lifehacker.com/5712785/faq-compromised-commenting-accounts-on-gawker-media), leading
