@@ -9,7 +9,7 @@ So what went wrong?
 { .lead}
 
 In December 2010, online news network
-[Gawker Media was hacked](https://web.archive.org/web/20141203202012/http://lifehacker.com/5712785/faq-compromised-commenting-accounts-on-gawker-media), leading
+[Gawker Media was hacked](http://lifehacker.com/5712785/faq-compromised-commenting-accounts-on-gawker-media), leading
 to the leak of passwords for 1.4 million user accounts. Hacks like
 these are disastrous for users, who often re-use the same password
 on multiple sites.
