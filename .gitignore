@@ -1,6 +1,6 @@
-_drafts
 _drafts/*
 .DS_Store
+Thumbs.db
 *.swp
 *.bak
 *~
