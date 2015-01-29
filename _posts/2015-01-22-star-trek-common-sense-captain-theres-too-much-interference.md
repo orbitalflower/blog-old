@@ -61,6 +61,7 @@ as a plot device to create conflict:
 > almost always about giving the protagonists something to rebel against:
 > The Prime Directive says we shouldn’t do this, but we’re going to ignore
 > it and save the day. 
+>
 > --- Justin Alexander, [Thought of the Day: Star Trek's Prime Directive](http://thealexandrian.net/wordpress/35971/random/thought-of-the-day-star-treks-prime-directive).
 
 ## When it makes sense
