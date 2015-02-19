@@ -19,14 +19,14 @@ Any activity the user has to perform manually to ensure security introduces
 security risks:
 
 1. The user may find the steps too complicated or inconvenient and avoid them:
-  1. If the system allows the user to opt out of security for the sake of
-  convenience, they may do so
-  2. If the system forces the user to take steps, they may refuse to use
-  the system altogether
+   1. If the system allows the user to opt out of security for the sake of
+   convenience, they may do so
+   2. If the system forces the user to take steps, they may refuse to use
+   the system altogether
 2. The user may perform the steps wrongly:
-  1. If the system allows mistakes, the user now has the illusion of
-  security
-  2. If the system blocks on mistakes, it becomes harder to use
+   1. If the system allows mistakes, the user now has the illusion of
+   security
+   2. If the system blocks on mistakes, it becomes harder to use
 
 A great deal of encryption can be taken away from user action, and several
 systems which do this have seen great success. The best known example is
