@@ -71,9 +71,9 @@ from a list of this size adds approximately 12.92 bits of strength.
 | Alphanumeric (a-z A-Z 0-9)     | 62    |   5.95  |
 | Base64                         | 64    |   6.00  |
 | Alphanum + punctuation + space | 95    |   6.57  |
-| [DuckDuckGo passphrase word](https://duckduckgo.com/?q=passphrase+4+words) | 4293  |  12.06  |
-| [Diceware](http://world.std.com/~reinhold/diceware.html) | 7776  |  12.92  |
-| [xkcdpass](https://github.com/redacted/XKCD-password-generator) | 65355 |  16.00  |
+| [DuckDuckGo passphrase](https://duckduckgo.com/?q=passphrase+4+words) wordlist | 4293 |  12.06  |
+| [Diceware](http://world.std.com/~reinhold/diceware.html) wordlist | 7776  |  12.92  |
+| [xkcdpass](https://github.com/redacted/XKCD-password-generator) wordlist | 65355 |  16.00  |
 
 For the password to have the required strength, the attacker must not predict
 it in a more reliable pattern. For example, the word "boat" as four lowercase
@@ -130,6 +130,7 @@ else where a hacker can directly attack the system.
 | 10 full alphanumeric         | +>7F'fBp"O8         |   59.54 |
 
 \* UK government [Cyberstreetwise](https://www.cyberstreetwise.com/passwords) website calls this a "medium" password.
+
 \*\* UK government inaccurately calls this a "strong" password.
 
 ### Strong passwords
