@@ -6,6 +6,8 @@ baseurl: "https://orbitalflower.github.io"
 relative_permalinks: false
 permalink: ":year:month:day-:title.html"
 
+future: false
+
 markdown: kramdown
 kramdown:
   hard_wrap: false
