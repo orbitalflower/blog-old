@@ -59,7 +59,7 @@ allowing it to use install wrappers or modified versions including adware
 
 Between [3 Dec 2013](https://web.archive.org/web/20140210032935/http://sourceforge.net/mirror/)
 and [10 Feb 2014](https://web.archive.org/web/20140210032935/http://sourceforge.net/mirror/),
-SourceForge cut the promise altogether. It also proudly increased its user
+SourceForge cut the paragraph altogether. It also proudly increased its user
 count statistic from 40 million to 42 million.
 
 ## 2015: SourceForge captures abandoned projects
