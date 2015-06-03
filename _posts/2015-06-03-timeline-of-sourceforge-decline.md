@@ -3,7 +3,7 @@ title: "Timeline of SourceForge's decline"
 ---
 
 Following the SourceForge adware controversy (see [How SourceForge started
-spreading adware](20150529-how-sourceforge-started-spreading-adware.md)),
+spreading adware](https://orbitalflower.github.io/20150529-how-sourceforge-started-spreading-adware.html)),
 I think it's particularly interesting to plot the site's gradual decline.
 
 ## Timeline
@@ -91,7 +91,8 @@ in its mirrors of abandoned projects.
 
 ## See also
 
-* [How SourceForge started spreading adware](20150529-how-sourceforge-started-spreading-adware.md)
+* [How SourceForge started spreading
+adware](https://orbitalflower.github.io/20150529-how-sourceforge-started-spreading-adware.html)
 * [What happened to Sourceforge?](https://blog.l0cal.com/2015/06/02/what-happened-to-sourceforge/)
 * [Anatomy of SourceForge/GIMP controversy](http://libregraphicsworld.org/blog/entry/anatomy-of-sourceforge-gimp-controversy)
 
