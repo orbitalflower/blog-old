@@ -49,6 +49,7 @@ non-binding on Britain, withdrawing from the ECHR, or leaving the EU. In his
 document, __Grayling recommends all three of these.__
 
 Consequently, the Tory party manifesto for 2015 made unexpected new pledges:
+
 * To re-negotiate an opt-out from the European Court of Human Rights
 * To hold a referendum for Britain leave the EU
 
