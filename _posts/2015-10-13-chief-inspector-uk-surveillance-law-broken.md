@@ -59,12 +59,12 @@ By that definition, it is clear that GCHQ engages in what UK law considers mass
 surveillance of the entire nation and an unlimited number of foreign citizens
 whose data passes through the UK or its listening points.
 
-This didn't change when the revealed the existence of GCHQ's surveillance
-programmes. By definition, the fact that they continue to operate secretly (in
-some cases the highest levels of top secret classification) and that GCHQ
-refuses to even comment on their existence, means that what they're doing is
-covert. That they collect such data on a national scale defines it clearly as
-mass surveillance.
+This didn't change when the Snowden leaks revealed the existence of GCHQ's
+surveillance programmes. By definition, the fact that they continue to operate
+secretly (in some cases the highest levels of top secret classification) and
+that GCHQ refuses to even comment on their existence, means that what they're
+doing is covert. That they collect such data on a national scale defines it
+clearly as mass surveillance.
 
 Note that the GCHQ boilerplate statement make no reference to human rights or
 privacy. They claim only that what they're doing is legal and "necessary",
