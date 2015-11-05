@@ -78,11 +78,6 @@ exactly what is and isn't metadata in practice has yet to be seen. Likewise, the
 summary is perhaps deliberately vague in its explanation of who will be able to
 access this metadata and under what circumstances.
 
-## Economic well-being
-
-RIPA interception will continue to be allowed for cases the interest of economic
-well-being. This
-
 ## Britain has been hacking for years
 
 The draft bill admits that yes, UK law enforcement and intelligence already
