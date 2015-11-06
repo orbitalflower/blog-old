@@ -3,7 +3,7 @@ title: "IP bill changes nothing"
 ---
 
 Some better qualified commentators have weighed in on the UK's [Draft IP
-bill](https://orbitalflower.github.io/20151104-draft-ip-bill-fake-judicial-oversight.html)
+bill](https://orbitalflower.github.io/20151104-draft-ip-bill-fake-judicial-oversight.html).
 
 ## The Intercept
 
